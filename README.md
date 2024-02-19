@@ -34,7 +34,7 @@
 
 <br>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yashdabhade283)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yashdabhade283&&theme=radical)
 
 ## 📈 GitHub Stats
 <div style="display: flex;">
