@@ -34,6 +34,8 @@
 
 <br>
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yashdabhade283)
+
 ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
