@@ -35,10 +35,9 @@
 <br>
 
 ## Online Judges Stats 
-<div style="display:flex; height:100px; align-items:center;justify-content:center;">     
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/yashdabhade283?ext=contest)
-    ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yashdabhade283&&theme=radical)
-</div>
+   
+![Leetcode Stats](https://leetcard.jacoblin.cool/yashdabhade283?ext=contest)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yashdabhade283&&theme=radical)
 
 
 ## 📈 GitHub Stats
