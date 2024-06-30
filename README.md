@@ -1,5 +1,5 @@
 <h1 align=center>
-    <strong> Hi 👋, I'm Yash Dabhade </strong> 
+<!--     <img src="" /> -->
 </h1>
 
 <br>
