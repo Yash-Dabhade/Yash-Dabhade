@@ -32,8 +32,6 @@
 </div>
 
 <br>
-
-## Online Judges Stats 
    
 ## 📈 Coding Profiles
 
