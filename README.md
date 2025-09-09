@@ -18,11 +18,6 @@
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
@@ -86,4 +81,5 @@
 <!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
   <img src='https://hacked-github-stat-trophies.vercel.app/?username=Yash-Dabhade&theme=dracula&column=11'>
 </p>
+
 
