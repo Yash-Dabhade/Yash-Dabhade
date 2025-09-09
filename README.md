@@ -1,7 +1,4 @@
 
-
-##  Tools and technologies that I have worked with and am interested in
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -84,7 +81,9 @@
  </tr>
 </table>
 
-## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yash-Dabhade&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br/>
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=Yash-Dabhade&theme=dracula&column=11'>
+</p>
 
